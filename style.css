@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+header {
+    background-color: lightblue;
+    padding: 10px;
+}
+header a{
+    text-decoration:none;
+    background-color: white;
+    padding: 6.5px;
+    border-radius: 10px;
+}
+header b{
+    color: blue;
+}
+main h1{
+    color: darkblue;
+    background-color: lightblue;
+    text-align: center;
+}
+footer td{
+    border:10px solid pink;
+}
+table{
+    border-collapse:collapse ;
+    border:10px solid pink;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 30px;
+}
+nav{
+    background-color: mediumseagreen;
+}
+.img{
+    background-color: greenyellow;
+    padding: 20px;
+}
+main h2{
+    color: red;
+}
+.logo{
+    text-decoration: none;
+    border: 3px solid black;
+    border-radius: 5px;
+    color: red;
+} 
